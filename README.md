@@ -26,6 +26,6 @@ Tools: Firebase, Git/GitHub, Supabase.
 Right now, I'm deep-diving into M.Sc. (IT) prep and perfecting my Power BI skills. I’m always looking for ways to bridge the gap between creative storytelling and technical data.
 
 📫 Let’s Connect!
-LinkedIn: Your Profile Name Here
+LinkedIn: https://www.linkedin.com/in/jasminprajapati2025/
 
 Favorite Aesthetic: 90s Retro & Vintage Visuals 📸
